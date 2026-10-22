@@ -79,12 +79,12 @@
   "accent_color": "#d4af37",
   "main_background": "#02060d",
   "secondary_background": "#030914",
-  "button_background": "#7ed24a",
+  "button_background": "#194168",
   "button_text_color": "#FFFFFF",
   "text_color": "#FFFFFF",
   "color_highlight_text": "#FFFFFF",
   "color_main_btn_text": "#030816",
-  "cta_background": "#194168",
+  "cta_background": "#7ed24a",
   "logo": {
     "url": "/uploads/f5a4a97e7324b46a9201c5107009db2e.svg",
     "alt": "pike logo"
@@ -230,10 +230,10 @@
       "question": "Is Pike Casino safe and licensed for players?"
     }
   ],
-  "_generated_at": "2026-10-22T09:21:47.523Z",
+  "_generated_at": "2026-10-22T09:24:19.566Z",
   "_version": "1.0.0",
   "html_head_alt": "pike baner",
   "content_alt": "pike register",
-  "_last_deploy": "2026-10-22T09:21:48.144Z",
-  "_deploy_trigger": "spgl5"
+  "_last_deploy": "2026-10-22T09:24:20.139Z",
+  "_deploy_trigger": "bw7e2a"
 }
