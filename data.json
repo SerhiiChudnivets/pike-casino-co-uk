@@ -141,12 +141,6 @@
       "label": "Contact Us",
       "submenu": [],
       "openInNewTab": false
-    },
-    {
-      "link": "/play/",
-      "label": "Contact",
-      "submenu": [],
-      "openInNewTab": false
     }
   ],
   "footer_images": [
@@ -236,10 +230,10 @@
       "question": "Is Pike Casino safe and licensed for players?"
     }
   ],
-  "_generated_at": "2026-10-22T09:19:54.505Z",
+  "_generated_at": "2026-10-22T09:21:47.523Z",
   "_version": "1.0.0",
   "html_head_alt": "pike baner",
   "content_alt": "pike register",
-  "_last_deploy": "2026-10-22T09:19:55.092Z",
-  "_deploy_trigger": "fprmab"
+  "_last_deploy": "2026-10-22T09:21:48.144Z",
+  "_deploy_trigger": "spgl5"
 }
