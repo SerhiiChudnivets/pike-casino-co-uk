@@ -66,7 +66,7 @@
   "tagline": "550% + 400 Free Spins",
   "features_list": null,
   "footer_text": "© 2026. Pike Casino. All rights reserved",
-  "popup_text": "Bonus 550% + 400 FS",
+  "popup_text": "Bonus 550% + 400 Free Spins",
   "faq_title": "FAQ",
   "login_text": "Log In",
   "register_text": "Register",
@@ -230,10 +230,10 @@
       "question": "Is Pike Casino safe and licensed for players?"
     }
   ],
-  "_generated_at": "2026-10-22T09:24:19.566Z",
+  "_generated_at": "2026-10-22T13:54:32.936Z",
   "_version": "1.0.0",
   "html_head_alt": "pike baner",
   "content_alt": "pike register",
-  "_last_deploy": "2026-10-22T09:24:20.139Z",
-  "_deploy_trigger": "bw7e2a"
+  "_last_deploy": "2026-10-22T13:54:33.618Z",
+  "_deploy_trigger": "ryg4ke"
 }
