@@ -1,7 +1,7 @@
 {
   "name": "pike-casino.co.uk",
   "site_name": "Pike Casino – Official Website UK",
-  "html_head": "<link rel=\"canonical\" href=\"https://crashpiratecasino.org.uk/en-gb/\">\n<link rel=\"alternate\" href=\"https://crashpiratecasino.org.uk/\" hreflang=\"en\">\n<link rel=\"alternate\" href=\"https://crashpiratecasino.org.uk/en-gb/\" hreflang=\"en-GB\">\n<link rel=\"alternate\" href=\"https://crashpiratecasino.org.uk/\" hreflang=\"x-default\">\n<meta property=\"og:locale\" content=\"en_GB\">\n<meta property=\"og:type\" content=\"website\">\n<meta property=\"og:title\" content=\"Crash Pirate Casino – Official Site UK\">\n<meta property=\"og:description\" content=\"Play top games at Crash Pirate Casino UK! Claim extra spins on sign-up, enjoy instant £10 minimum withdrawals and robust security. Join now and start playing!\">\n<meta property=\"og:url\" content=\"crashpiratecasino.org.uk\">\n<meta property=\"og:site_name\" content=\"Crash Pirate\">\n<meta property=\"og:image\" content=\"https://crashpiratecasino.org.uk//uploads/d34bb17282901b4619f5187993ece2a2.webp\">",
+  "html_head": "<link rel=\"canonical\" href=\"https://pike-casino.co.uk/\">\n<link rel=\"alternate\" href=\"https://pike-casino.co.uk/\" hreflang=\"en\">\n<link rel=\"alternate\" href=\"https://pike-casino.co.uk/\" hreflang=\"en-GB\">\n<meta property=\"og:locale\" content=\"en_GB\">\n<meta property=\"og:type\" content=\"website\">\n<meta property=\"og:title\" content=\"Pike Casino – Official Website UK\">\n<meta property=\"og:description\" content=\"Explore Pike Casino for top online slots, live dealer tables, and fast GBP withdrawals! Claim exclusive Pike Casino bonus packages & start winning today.\">\n<meta property=\"og:url\" content=\"crashpiratecasino.org.uk\">\n<meta property=\"og:site_name\" content=\"Pike Casino\">\n<meta property=\"og:image\" content=\"https://pike-casino.co.uk//uploads/1e20a2f3a60ebac4dad95ac05b5017c7.webp\">",
   "url": "pike-casino.co.uk",
   "template": "tupchiy",
   "language_code": "en",
@@ -77,14 +77,14 @@
   "home_name": "Pike Casino",
   "subdomains": null,
   "accent_color": "#d4af37",
-  "main_background": "#111121",
-  "secondary_background": "#111121",
-  "button_background": "#ff5724",
+  "main_background": "#02060d",
+  "secondary_background": "#030914",
+  "button_background": "#7ed24a",
   "button_text_color": "#FFFFFF",
   "text_color": "#FFFFFF",
   "color_highlight_text": "#FFFFFF",
-  "color_main_btn_text": "#FFFFFF",
-  "cta_background": "#ff5724",
+  "color_main_btn_text": "#030816",
+  "cta_background": "#7ed24a",
   "logo": {
     "url": "/uploads/f5a4a97e7324b46a9201c5107009db2e.svg",
     "alt": "pike logo"
@@ -144,12 +144,6 @@
     },
     {
       "link": "/play/",
-      "label": "Privacy Policy and Security",
-      "submenu": [],
-      "openInNewTab": false
-    },
-    {
-      "link": "/play/",
       "label": "Contact",
       "submenu": [],
       "openInNewTab": false
@@ -172,10 +166,10 @@
     },
     {
       "link": "/play/",
-      "logo": "/uploads/2419013924fd9ce9a5741c6a80dee5d8.webp",
-      "name": "Wild Wild Pearls",
-      "Name": "Wild Wild Pearls",
-      "logo_alt": "wild wild pearls"
+      "logo": "/uploads/205c4d625fda34c8752d432902bc7275.webp",
+      "name": "Big Bass Splash",
+      "Name": "Big Bass Splash",
+      "logo_alt": "big bass splash"
     },
     {
       "link": "/play/",
@@ -186,39 +180,37 @@
     },
     {
       "link": "/play/",
+      "logo": "/uploads/498dbf89ecad9e8a4c63a2acc87cb117.webp",
+      "name": "Penalty Shoot",
+      "Name": "Penalty Shoot",
+      "logo_alt": "Penalty Shoot"
+    },
+    {
+      "link": "/play/",
       "logo": "/uploads/672a04bafac82bac397c4e5bb773a89f.webp",
       "name": "Big Bass Bonanza",
       "Name": "Big Bass Bonanza",
       "logo_alt": "Big Bass Bonanza"
-    },
-    {
-      "link": "/play/",
-      "logo": "/uploads/205c4d625fda34c8752d432902bc7275.webp",
-      "name": "Big Bass Splash",
-      "Name": "Big Bass Splash",
-      "logo_alt": "big bass splash"
     }
   ],
   "Bonuses": [
     {
       "link": "/play/",
-      "logo": "/uploads/4387701e32901123b88b30c38d2695b0.webp",
-      "name": "Welcome Bonus  100% up to £4,000 and 20 FS",
-      "Name": "Welcome Bonus  100% up to £4,000 and 20 FS",
-      "logo_alt": "Weekly Bonus"
+      "logo": "/uploads/aa472f4374d9b6987755272b5bc876b7.webp",
+      "name": "Welcome Bonus 550% + 400 FS",
+      "Name": "Welcome Bonus 550% + 400 FS"
     },
     {
       "link": "/play/",
-      "logo": "/uploads/5e2e87c3b1cf5f5e112f42ca7a93a7f4.webp",
-      "name": "Weekly Reload Bonus 50% match up to £100",
-      "Name": "Weekly Reload Bonus 50% match up to £100",
-      "logo_alt": "Welcome Bonus"
+      "logo": "/uploads/8168e46f1c4b642e6a6bca6521bfce04.webp",
+      "name": "Daily Cashback Earn a 10%",
+      "Name": "Daily Cashback Earn a 10%"
     },
     {
       "link": "/play/",
-      "logo": "/uploads/b4aae2a1416f6c7de83050e0ebf204c1.webp",
-      "name": "Weekly Cashback 10% net cashback up to £500",
-      "Name": "Weekly Cashback 10% net cashback up to £500"
+      "logo": "/uploads/3d2529a6cb8a447db4427a8d609d0bfa.webp",
+      "name": "Weekly Cashback Receive 10%",
+      "Name": "Weekly Cashback Receive 10%"
     }
   ],
   "Reviews": null,
@@ -244,10 +236,10 @@
       "question": "Is Pike Casino safe and licensed for players?"
     }
   ],
-  "_generated_at": "2026-10-22T08:47:55.404Z",
+  "_generated_at": "2026-10-22T09:11:36.712Z",
   "_version": "1.0.0",
-  "html_head_alt": "crashpirate baner",
+  "html_head_alt": "pike baner",
   "content_alt": "pike register",
-  "_last_deploy": "2026-10-22T08:47:56.055Z",
-  "_deploy_trigger": "jk5erw"
+  "_last_deploy": "2026-10-22T09:11:37.297Z",
+  "_deploy_trigger": "cjf9p"
 }
